@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1aQ1OXZSdk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vince\\OneDrive\\Desktop\\CIT-077-01\\Weeks\\week 8\\working application\\AdventureTimerApp\\AdventureTimerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vince\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.5\\microsoft.data.sqlite.core.10.0.5.nupkg.sha512",
+    "C:\\Users\\Vince\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.11\\sqlitepclraw.bundle_green.2.1.11.nupkg.sha512",
+    "C:\\Users\\Vince\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\Vince\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Vince\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
